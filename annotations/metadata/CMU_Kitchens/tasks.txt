@@ -1,0 +1,24 @@
+Brownies
+18114
+9
+1 break egg,2 mix eggs,3 add water,4 add oil,5 add brownie mix,6 mix all the contents,7 spray oil on the tray,8 pour the mixture in the tray,9 put the train in the oven
+
+Eggs
+78952
+8
+1 break egg,2 mix,3 add salt,4 add pepper,5 pour oil in the pan,6 pour mixture in the pan,7 flip the mixture,9 put omelette in the plate
+
+Pizza
+58350
+5
+1 spread the batter on the tray,2 apply pizza sauce on the batter,3 grate and add cheese on the batter,4 cut and add pepperoni on the batter,5 put the pizza tray in the oven
+
+Sandwich
+48448
+4
+1 keep bread on the plate,2 apply peanut butter,3 apply jam,4 press the bread slices together
+
+Salad
+34936
+9
+1 peel the carrot,2 cut carrot,3 cut lettuce,4 peel the cucumber,5 cut the cucumber,6 cut white onion,7 add pepper,8 add mayonnaise,9 mix
