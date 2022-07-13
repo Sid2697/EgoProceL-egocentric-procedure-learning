@@ -1,9 +1,11 @@
 # Downloading the EgoProceL dataset
 
-The EgoProceL dataset was released in an ECCV 2022 publication titled: "My View is the Best View: Procedure Learning from Egocentric Videos".
+The EgoProceL dataset was released in an ECCV 2022 publication titled: "[My View is the Best View: Procedure Learning from Egocentric Videos](https://sid2697.github.io/egoprocel/)".
 
 Link to download EgoProceL: [https://sid2697.github.io/egoprocel/#download](https://sid2697.github.io/egoprocel/#download)
+
 Link to the project page: [https://sid2697.github.io/egoprocel/](https://sid2697.github.io/egoprocel/)
+
 Link to the paper: Coming soon!
 
 This document summarizes the steps required to download the videos and annotations in EgoProceL.
@@ -73,6 +75,7 @@ Download link: [OneDrive](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/sid
 
 ### CMU-MMAC
 CMU-MMAC videos can be downloaded from [http://kitchen.cs.cmu.edu/main.php](http://kitchen.cs.cmu.edu/main.php).
+
 Here is a script to download all the videos at once: [https://github.com/Sid2697/EgoProceL-egocentric-procedure-learning/blob/main/misc/CMU_Kitchens/download.py](https://github.com/Sid2697/EgoProceL-egocentric-procedure-learning/blob/main/misc/CMU_Kitchens/download.py).
 
 ### EGTEA-Gaze+
