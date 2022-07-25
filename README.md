@@ -1,9 +1,9 @@
 # My View is the Best View: Procedure Learning from Egocentric Videos
 
-[![arXiv](https://img.shields.io/badge/cs.cv-arXiv%3Axxxx.xxxxx-42ba94.svg)](http://arxiv.org/abs/xxxx.xxxxx)
+[![arXiv](https://img.shields.io/badge/cs.cv-arXiv%3A2207.10883-42ba94.svg)](http://arxiv.org/abs/2207.10883)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-### [Project page](https://sid2697.github.io/egoprocel/) | [**Download EgoProceL**](https://sid2697.github.io/egoprocel/#download) | [Paper]()
+### [Project page](https://sid2697.github.io/egoprocel/) | [**Download EgoProceL**](https://sid2697.github.io/egoprocel/#download) | [Paper](https://arxiv.org/pdf/2207.10883)
 
 This repository contains code for the paper
 
