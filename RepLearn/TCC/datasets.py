@@ -36,29 +36,6 @@ class VideoAlignmentLoader(Dataset):
                 os.path.join(ann_dir, item) for item in os.listdir(ann_dir)
             ]
         videos_names = os.listdir(videos_dir)
-        if cfg.CVPR2022_MISC.NO_VIDEOS is not None:
-            print(f'No. of videos for training: {cfg.CVPR2022_MISC.NO_VIDEOS}')
-            selected_videos = list()
-            videos_list = ['S31', 'S32', 'S33', 'S34', 'S35']
-            if cfg.CVPR2022_MISC.NO_VIDEOS == 5:
-                pass
-            elif cfg.CVPR2022_MISC.NO_VIDEOS == 10:
-                videos_list.extend(['S36', 'S37', 'S40', 'S41', 'S47'])
-            elif cfg.CVPR2022_MISC.NO_VIDEOS == 15:
-                videos_list.extend(['S36', 'S37', 'S40', 'S41', 'S47'])
-                videos_list.extend(['S48', 'S49', 'S50', 'S53', 'S54'])
-            elif cfg.CVPR2022_MISC.NO_VIDEOS == 20:
-                videos_list.extend(['S36', 'S37', 'S40', 'S41', 'S47'])
-                videos_list.extend(['S48', 'S49', 'S50', 'S53', 'S54'])
-                videos_list.extend(['S55', 'S08', 'S07', 'S16', 'S17'])
-            else:
-                raise NotImplementedError
-            for video in videos_names:
-                for subject in videos_list:
-                    if subject in video:
-                        selected_videos.append(video)
-            videos_names = selected_videos
-            assert len(videos_names) == cfg.CVPR2022_MISC.NO_VIDEOS
         self.video_paths = [
             os.path.join(videos_dir, item) for item in videos_names
         ]
@@ -94,6 +71,7 @@ class VideoAlignmentLoader(Dataset):
                 h5_file_name,
                 selected_frames,
             )
+            frames = np.array(frames)
             final_frames.append(
                 np.expand_dims(frames.astype(np.float32), axis=0)
             )

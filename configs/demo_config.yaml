@@ -1,0 +1,33 @@
+CMU_KITCHENS:
+  METADATA_FILE: //home/siddhant.b/EgoProceL-egocentric-procedure-learning/annotations/metadata/CMU_Kitchens/tasks.txt
+  VIDEOS_PATH: /scratch/sid/CMUMMAC/videos
+  ANNS_PATH: /scratch/sid/CMUMMAC/annotations
+  FRAMES_PATH: /scratch/sid/CMUMMAC/frames
+  VIEW: back
+ANNOTATION:
+  CATEGORY: Sandwich
+DATA_LOADER:
+  NUM_WORKERS: 0
+  SHUFFLE: False
+  CROP_SIZE: 224
+  SAMPLING_FPS: 2
+  PIN_MEMORY: True
+MISC:
+  DEBUG_VIZ_PATH: ""
+  VERBOSE: True
+LOG:
+  DIR: /scratch/sid/logs/2021-11-05_sandwich_back-view_tcc-cidm-0.1-loss_32-2-frames
+  LEVEL: debug
+TCC:
+  DATA_PATH: /scratch/sid/CMUMMAC/videos/48448_6510211
+  TRAIN_EPOCHS: 10000
+  KMEANS_NUM_CLUSTERS: 30
+  BATCH_SIZE: 2
+  NUM_FRAMES: 32
+  NUM_CONTEXT_STEPS: 2
+  CONTEXT_STRIDE: 15
+  LSTM: False
+  BILSTM: False
+LAV:
+  USE_CIDM: True
+  CONTRIB_PERCENT: 0.1
