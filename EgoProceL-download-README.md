@@ -12,7 +12,7 @@ This document summarizes the steps required to download the videos and annotatio
 
 ## Downloading the annotations
 
-Link to download: [OneDrive](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/siddhant_bansal_research_iiit_ac_in/EgqvXb5syepDv1z-UAwsYEQBivEYauz8tuotty7eey32Ng?e=TNXpBE)
+Link to download: ~[OneDrive](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/siddhant_bansal_research_iiit_ac_in/EgqvXb5syepDv1z-UAwsYEQBivEYauz8tuotty7eey32Ng?e=TNXpBE)~ (expired) [Google Drive](https://drive.google.com/drive/folders/17u7ReqPOJ29lbVZT8PDEd5dN17VBqS5Q?usp=share_link) (please use this)
 
 Folder structure:
 
@@ -71,7 +71,7 @@ The videos in EgoProceL were obtained from multiple sources. Here we list the st
 ### PC Assembly and Disassembly
 These videos were recorded by [Pravin Nagar](https://scholar.google.com/citations?user=k4TZSPQAAAAJ&hl=en) and [Sagar Verma](https://sagarverma.github.io/) at IIIT Delhi.
 
-Download link: [OneDrive](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/siddhant_bansal_research_iiit_ac_in/Ev14SL5JYtJNpVUUAhDMgEABbPnTYpbDUzBYAhQToyHmVw?e=cQu5by)
+Download link: ~[OneDrive](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/siddhant_bansal_research_iiit_ac_in/Ev14SL5JYtJNpVUUAhDMgEABbPnTYpbDUzBYAhQToyHmVw?e=cQu5by)~ This link has expired. We are uploading the videos to a different place. We will share the updated link soon.
 
 ### CMU-MMAC
 CMU-MMAC videos can be downloaded from [http://kitchen.cs.cmu.edu/main.php](http://kitchen.cs.cmu.edu/main.php).
