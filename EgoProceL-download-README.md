@@ -71,7 +71,7 @@ The videos in EgoProceL were obtained from multiple sources. Here we list the st
 ### PC Assembly and Disassembly
 These videos were recorded by [Pravin Nagar](https://scholar.google.com/citations?user=k4TZSPQAAAAJ&hl=en) and [Sagar Verma](https://sagarverma.github.io/) at IIIT Delhi.
 
-Download link: ~[OneDrive](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/siddhant_bansal_research_iiit_ac_in/Ev14SL5JYtJNpVUUAhDMgEABbPnTYpbDUzBYAhQToyHmVw?e=cQu5by)~ This link has expired. We are uploading the videos to a different place. We will share the updated link soon.
+Download link: ~[OneDrive](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/siddhant_bansal_research_iiit_ac_in/Ev14SL5JYtJNpVUUAhDMgEABbPnTYpbDUzBYAhQToyHmVw?e=cQu5by)~ [Google Drive](https://drive.google.com/drive/folders/19QofEX1tcfmU3fO2DAwGV8iiBZPAiRuI?usp=share_link) (please use this)
 
 ### CMU-MMAC
 CMU-MMAC videos can be downloaded from [http://kitchen.cs.cmu.edu/main.php](http://kitchen.cs.cmu.edu/main.php).
